@@ -1,6 +1,6 @@
 Gallery  React
 =====
-[![Build Status](https://secure.travis-ci.org/liushaojun/gallery-react.png)](https://travis-ci.org/materliu/gallery-by-react) [![Dependency Status](https://gemnasium.com/liushaojun/gallery-react.svg)](https://gemnasium.com/materliu/gallery-by-react)
+[![Build Status](https://travis-ci.org/liushaojun/gallary-react.svg?branch=master)](https://travis-ci.org/liushaojun/gallary-react.svg?branch=master) [![Dependency Status](https://gemnasium.com/liushaojun/gallery-react.svg)](https://gemnasium.com/liushaojun/gallery-react.svg)
 
 使用ReactJS构架,webpack 构建的图片画廊应用
 
