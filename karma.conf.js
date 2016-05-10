@@ -35,6 +35,9 @@ module.exports = function (config) {
         }, {
           test: /\.sass/,
           loader: 'style-loader!css-loader!sass-loader?outputStyle=expanded'
+        } ,{
+          test: /\.less/,
+          loader: 'style-loader!css-loader!less-loader'
         }, {
           test: /\.css$/,
           loader: 'style-loader!css-loader'
